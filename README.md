@@ -1,2 +1,2 @@
 # trail-effect
-light trail effect for mouse move ( or a character movement)
+A light trail effect for mouse movement.
